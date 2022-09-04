@@ -1,0 +1,25 @@
+body{
+    font-family: 'Inter', sans-serif;
+
+    font-family: 'Merriweather', serif;
+    background: #ADADAD;
+}
+div{
+    background-color: #FFFFFF;
+    padding: 20px;
+}
+button{
+   color:#FFFFFF;
+   letter-spacing: 0.2px;
+   padding: 8px 16px; 
+   font-weight: 700;
+  font-size: 18px;
+  border-radius: 16px;
+  border: 1px;
+  cursor: pointer;
+}
+#action{
+    color: #FFFFFF;
+    background-color: #6C5CE7;;
+
+}
